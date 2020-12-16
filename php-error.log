@@ -1,0 +1,90 @@
+[19-Nov-2020 23:58:16 Europe/Berlin] POST: Array
+(
+)
+
+[19-Nov-2020 23:58:28 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[19-Nov-2020 23:58:53 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => c4ca4238a0b923820dcc509a6f75849b
+)
+
+[20-Nov-2020 00:25:29 Europe/Berlin] POST: Array
+(
+)
+
+[20-Nov-2020 00:25:34 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[20-Nov-2020 00:25:51 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[20-Nov-2020 00:26:08 Europe/Berlin] POST: Array
+(
+    [email] => teste@teste
+    [senha] => 123
+)
+
+[20-Nov-2020 01:18:24 Europe/Berlin] POST: Array
+(
+)
+
+[20-Nov-2020 01:18:30 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[20-Nov-2020 01:27:28 Europe/Berlin] POST: Array
+(
+)
+
+[20-Nov-2020 01:27:34 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[20-Nov-2020 01:28:08 Europe/Berlin] POST: Array
+(
+)
+
+[20-Nov-2020 01:28:12 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[20-Nov-2020 01:32:25 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[20-Nov-2020 01:32:28 Europe/Berlin] POST: Array
+(
+)
+
+[20-Nov-2020 01:32:32 Europe/Berlin] POST: Array
+(
+    [email] => a@a
+    [senha] => 1
+)
+
+[20-Nov-2020 01:32:57 Europe/Berlin] POST: Array
+(
+    [email] => aa@aa
+    [senha] => 123
+)
+
